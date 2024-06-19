@@ -1,9 +1,21 @@
 # React + Vite
 
-This is an React + Vite app
-1 - To Start the App - npm run dev
-2 - All the url and the API key are direclty saved in the app i  have not put it into any .env file as it will get ignored
-3 - Main Page is showing the TOP popular show currently , clicking on it you will get to see a model with extra details and movie trailer.
-4 - Search bar on top right  , you can able to search movies , click on then wll also only the same model.
-5 - For sorting purpose as there are very few options there to sort the movie from the API , i have added Sort by populatiry and other is sort by Release date.
-6 -Thats all from my side Thank you
+This is a React + Vite application that allows you to browse and explore movies.
+
+### Getting Started
+
+1. **To Start the App**: Run `npm run dev`.
+   
+### Notes
+
+- All URLs and API keys are directly embedded in the application. They are not stored in any `.env` file to avoid being ignored by version control.
+
+### Features
+
+- **Main Page**: Displays the top popular shows. Clicking on a show opens a modal with additional details and a movie trailer.
+- **Search Bar**: Located in the top right corner, allows you to search for movies. Clicking on a movie shows the same modal view.
+- **Sorting**: Options include sorting movies by popularity and release date.
+
+### Additional Information
+
+That's all from my side. Thank you!
