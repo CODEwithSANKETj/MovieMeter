@@ -9,7 +9,7 @@ function App() {
   return (
    <>
    <Navbar setintial={setintial_render}setsearchvalue={setsearchvalue}/>
-   <Mainbody initial={initial_render} searchvalue={searchvalue}/>
+   <Mainbody initial={initial_render} searchvalue={searchvalue}setintial={setintial_render}/>
    </>
   )
 }
