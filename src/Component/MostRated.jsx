@@ -69,14 +69,14 @@ const LoadingContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  grid-column: span 3; /* Adjust this to span the correct number of columns */
+  grid-column: span 3; 
 
   @media screen and (max-width: 1024px) {
-    grid-column: span 2; /* Adjust this to span the correct number of columns */
+    grid-column: span 2; 
   }
 
   @media screen and (max-width: 768px) {
-    grid-column: span 1; /* Adjust this to span the correct number of columns */
+    grid-column: span 1; 
   }
 `;
 

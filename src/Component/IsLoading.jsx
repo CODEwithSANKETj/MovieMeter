@@ -24,12 +24,12 @@ const LoaderContainer = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Full viewport height */
+  height: 100vh; 
 `;
 
 const Loader = styled.div`
-  border: 16px solid #f3f3f3; /* Light grey */
-  border-top: 16px solid #3498db; /* Blue */
+  border: 16px solid #f3f3f3; 
+  border-top: 16px solid #3498db; 
   border-radius: 50%;
   width: 120px;
   height: 120px;

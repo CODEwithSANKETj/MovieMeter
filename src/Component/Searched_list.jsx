@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { styled } from 'styled-components';
 import Movie_card from './Movie_card';
 import Popup from './Popup';
-import IsLoading from './IsLoading';  // Make sure to import the IsLoading component
 import { useSearchParams } from 'react-router-dom';
 
 function Searched_list({ movielist, searchvalue, setsearchparam, mainloading,setintial }) {

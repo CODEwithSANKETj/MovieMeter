@@ -109,7 +109,7 @@ const Maindiv = styled.div`
   
   border-radius: 15px;
   position: relative;
-  background-color: #f1f0f0; /* Set your desired background color */
+  background-color: #f1f0f0;
   :hover {
       cursor: pointer;
 
